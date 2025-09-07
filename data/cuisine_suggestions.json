@@ -1,0 +1,21 @@
+{
+  "default": [
+    "Try a local street-food tour on Day 1 evening",
+    "Sample a signature dessert unique to the region",
+    "Book one special-occasion dinner with a view",
+    "Take a morning coffee crawl or tea tasting",
+    "Reserve a chef\u2019s tasting menu or farm-to-table lunch"
+  ],
+  "Italy": [
+    "Trastevere trattoria crawl (Rome)",
+    "Neapolitan pizza workshop",
+    "Florentine bistecca night",
+    "Gelato tasting near the Duomo"
+  ],
+  "Japan": [
+    "Sushi omakase (Tokyo)",
+    "Ramen alley exploration (Sapporo)",
+    "Okonomiyaki night (Osaka)",
+    "Matcha ceremony (Kyoto)"
+  ]
+}
